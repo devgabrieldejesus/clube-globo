@@ -58,7 +58,7 @@
                 </div>
                 <div class="settings"><img src="<?php echo BASE_URL;?>assets/images/settings.png"/></div>
                 <div class="profile">
-                    <img src="<?php echo BASE_URL;?>assets/images/profile-picture.png"/>
+                    <img src="<?php echo BASE_URL;?>assets/images/profile-picture.png" class="profile-picture"/>
                     <div class="nome-user"><?php echo $viewData['user']['nome'];?></div>
                     <div class="drop-down"><img src="<?php echo BASE_URL;?>assets/images/down-arrow.png"/></div>
                     <div class="profile-content">

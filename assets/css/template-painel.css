@@ -120,7 +120,12 @@ header {
     margin-right:10px;
 }
 .profile img {
-    margin-right:10px;  
+    margin-right:10px;
+}
+.profile-picture {
+    border-radius:30px;
+    border:2px solid #FFF;
+    box-shadow:0px 0px 5px #dddddd;
 }
 .drop-down {
     display:flex;
