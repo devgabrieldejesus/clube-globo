@@ -993,6 +993,7 @@ footer {
     flex-direction:column;
 }
 .erro-edit-perfil {
+    display:none;
     color:#fff7f0;
     font-size:13px;
     text-align:center;
@@ -1175,6 +1176,9 @@ input:checked + .modal-conteudo-card label {
 }
 @media (max-width:550px) {
     header img {
+        height:20px;
+    }
+    .profile-picture {
         height:20px;
     }
     .menu {
