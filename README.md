@@ -1,7 +1,7 @@
-# Mega Hack 2º Edição
-# TIME 18 – DESAFIO GLOBO
+Mega Hack 2º Edição
+# Globo Challenge
 
-# PROJETO CLUBE GLOBO
-- O que é ?
+# Project: Clube Globo
+- What is ?
 
-O Clube Globo é um clube para os usuários Globo terem a melhor experiencia, de forma personalizada. A plataforma reúne todos os conteúdos Globo em uma espécie de cardápio, e tem diversas interações que acumulam pontos (GPontos) que podem virar prêmios! Ao fazer o cadastro, o usuário indica os seus gostos e preferencias, e o sistema já personalizao perfil do jeito do usuário. E com um diferencial: ele terá acesso a todos os conteúdos em um só lugar, sem precisar migrar para outros aplicativos e sites para ter acesso.
+Clube Globo is a club for Globo users to have the best experience, in a personalized way. The platform gathers all Globo content in a kind of menu, and has several interactions that accumulate points (GPontos) that can become prizes! When registering, the user indicates his / her tastes and preferences, and the system already personalizes the profile the user's way. And with a difference: it will have access to all content in one place, without having to migrate to other applications and sites to have access.
