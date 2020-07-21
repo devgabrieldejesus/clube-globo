@@ -4,7 +4,8 @@
 > 📺   Clube Globo gathers all the contents of Globo in one place! You can customize it your way, interact with your favorite shows and collect points that you can exchange for exclusive products and prizes!
 
 
-![](social-preview-clube-globo.png)
+> Web preview
+![](web-preview.png)
 
 
 ## What is?
