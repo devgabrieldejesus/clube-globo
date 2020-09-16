@@ -11,7 +11,7 @@ Clube Globo is a club for Globo users to have the best experience, in a personal
 
 ## Deployment in
 http://clubeglobo.gabrieldesenvolvedor.com
-If for some reason you are unable to create an account you can use the following information to sign in:
+> If for some reason you are unable to create an account you can use the following information to sign in:
 `Email:` teste@teste.com
 `Password:` 123
 
