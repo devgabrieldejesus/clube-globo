@@ -12,8 +12,8 @@ Clube Globo is a club for Globo users to have the best experience, in a personal
 ## Deployment in
 http://clubeglobo.gabrieldesenvolvedor.com
 > If for some reason you are unable to create an account you can use the following information to sign in:
-`Email:` teste@teste.com
-`Password:` 123
+> `Email:` teste@teste.com
+> `Password:` 123
 
 ## Release history
 
@@ -37,10 +37,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
-
-
-
-
-## Contact me
-
-Gabriel de Jesus – https://www.linkedin.com/in/gabrieldejesuss – contato@gabrieldesenvolvedor.com
