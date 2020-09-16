@@ -24,7 +24,7 @@ If for some reason you are unable to create an account you can use the following
     
 ## Meta
 
-* Gabriel de Jesus – [Front-end Developer](https://www.gabrieldesenvolvedor.com/) – contato@gabrieldesenvolvedor.com
+Gabriel de Jesus – [Front-end Developer](https://www.gabrieldesenvolvedor.com/) – contato@gabrieldesenvolvedor.com
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
