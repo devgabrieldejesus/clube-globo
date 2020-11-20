@@ -114,7 +114,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 [https://github.com/devgabrieldejesus/clube-globo](https://github.com/devgabrieldejesus/)
 
-## 🚀 Contribuindo
+## 🚀 Contribuição
 
 1. Fork it (<https://github.com/devgabrieldejesus/clube-globo/fork>)
 2. Crie seu branch de recurso (`git checkout -b feature / fooBar`)
